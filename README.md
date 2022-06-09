@@ -1,3 +1,4 @@
+![GALauncher Logo](https://raw.githubusercontent.com/PopularTopplingJelly/GALauncher/main/Logo.png)
 # GALauncher
 GALauncher is a free and open source game storefront, that's coming soon.
 
